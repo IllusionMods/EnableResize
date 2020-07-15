@@ -1,2 +1,1 @@
-# EnableResize
-Enable window resize for Illusion games
+Moved to https://github.com/BepInEx/BepInEx.Utility
